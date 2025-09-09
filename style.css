@@ -2,3 +2,8 @@ body {
     background-color: #f0f8ff; /* A light blue color */
     font-family: sans-serif;
 }
+.skills {
+  background-color: #e7f3fe;
+  padding: 10px;
+  border-radius: 5px;
+}
